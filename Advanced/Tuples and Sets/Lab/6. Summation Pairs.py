@@ -10,5 +10,5 @@ for value in numbers:
         pair = hashmap[value]
         print(f'{pair} + {value} = {target}')
     else:
-        targets.add(resulting_number
+        targets.add(resulting_number)
         hashmap[resulting_number] = value
