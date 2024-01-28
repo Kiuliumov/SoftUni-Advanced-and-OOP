@@ -1,4 +1,3 @@
-#exercise
 first = set(int(x) for x in input().split())
 second = set(int(x) for x in input().split())
 n = int(input())
