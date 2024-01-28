@@ -1,5 +1,5 @@
 from collections import deque
-#
+
 robots_list = list(input().split(";"))
 free_robots_dict = {}
 working_robots_dict = {}
