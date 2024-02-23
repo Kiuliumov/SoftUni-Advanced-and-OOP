@@ -25,5 +25,5 @@ if not worms and matches == initial_worms:
     flag = True
 if not flag:
     print(f"Worms left: {(', '.join([str(x) for x in worms]) if worms else 'none')} ")
-print(f"Holes left: {(', '.join([str(x) for x in holes]).strip() if holes else 'none')} ")
+print(f"Holes left: {(', '.join([str(x) for x in holes]) if holes else 'none')} ")
 

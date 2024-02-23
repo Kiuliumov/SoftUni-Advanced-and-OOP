@@ -1,14 +1,17 @@
 from collections import deque
 
-rows, cols = list(map(int, input().split()))
-snake = list(input())
-word_copy = deque(snake)
+r, c = map(int, input().split())
+snake = input().strip()
 
-for row in range(rows):
-    while len(word_copy) < cols:
-        word_copy.extend(snake)
+snake_queue = deque(snake)
+capacity = r * c
 
-    if row % 2 == 0:
-        print(*[word_copy.popleft() for _ in range(cols)], sep='')
-    else:
-        print(*[word_copy.pop() for _ in range(cols)][::-1], sep='')
+for i in range(r):
+    row = []
+    for j in range(c):
+        if snake_queue:
+            if i % 2 == 0:
+                row.append(snake_queue.popleft())
+            else:
+                row.insert(0, snake_queue.pop())
+    print("".join(row))
