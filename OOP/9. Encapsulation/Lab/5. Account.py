@@ -1,0 +1,16 @@
+
+class Account:
+    def __init__(self, given_id, balance, pin):
+        self.__id = given_id
+        self.balance = balance
+        self.__pin = pin
+
+    def get_id(self, pin):
+        return self.__id if pin == self.__pin else 'Wrong pin'
+
+    def change_pin(self, old_pin, new_pin):
+        if old_pin == self.__pin:
+            self.__pin = new_pin
+            return 'Pin changed'
+        else:
+            return 'Wrong pin'
