@@ -9,3 +9,7 @@ class Animal(ABC):
     @abstractmethod
     def make_sound(self):
         pass
+
+    @abstractmethod
+    def feed(self, food):
+        pass

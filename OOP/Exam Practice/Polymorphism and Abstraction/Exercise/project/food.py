@@ -12,7 +12,7 @@ class Vegetable(Food):
 
 
 class Seed(Food):
-    def __init__(self,quantity: int):
+    def __init__(self, quantity: int):
         super().__init__(quantity)
 
 
