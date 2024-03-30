@@ -1,4 +1,4 @@
-from project.hero import Hero
+from music.hero import Hero
 
 
 

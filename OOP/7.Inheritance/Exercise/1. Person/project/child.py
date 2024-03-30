@@ -1,4 +1,4 @@
-from project.person import Person
+from music.person import Person
 
 
 class Child(Person):

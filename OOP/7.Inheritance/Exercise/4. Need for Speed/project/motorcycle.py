@@ -1,4 +1,4 @@
-from project.vehicle import Vehicle
+from music.vehicle import Vehicle
 
 
 class Motorcycle(Vehicle):

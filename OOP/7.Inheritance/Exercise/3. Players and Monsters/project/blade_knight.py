@@ -1,4 +1,4 @@
-from project.dark_knight import DarkKnight
+from music.dark_knight import DarkKnight
 
 
 

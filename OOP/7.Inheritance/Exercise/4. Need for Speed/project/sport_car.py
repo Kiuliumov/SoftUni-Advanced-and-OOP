@@ -1,4 +1,4 @@
-from project.car import Car
+from music.car import Car
 
 
 class SportCar(Car):

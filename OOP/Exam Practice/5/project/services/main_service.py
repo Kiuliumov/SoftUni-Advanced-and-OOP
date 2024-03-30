@@ -1,4 +1,4 @@
-from project.services.base_service import BaseService
+from music.services.base_service import BaseService
 
 
 class MainService(BaseService):

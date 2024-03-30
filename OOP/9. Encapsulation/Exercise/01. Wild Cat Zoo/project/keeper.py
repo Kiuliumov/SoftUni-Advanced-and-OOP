@@ -1,4 +1,4 @@
-from project.worker import Worker
+from music.worker import Worker
 
 
 class Keeper(Worker):

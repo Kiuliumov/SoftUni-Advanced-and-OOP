@@ -1,13 +1,16 @@
-from project.animal import Animal
+from music.animal import Animal
 
 
-class Dog(Animal):
-    CLASS_NAME = 'Dog'
+
+class Cat(Animal):
+    CLASS_NAME = 'Cat'
+
     def __init__(self, name: str, age: int, gender: str):
         super().__init__(name, age, gender)
+        self.sound = 'Meow meow!'
 
     def __repr__(self):
         return f'This is {self.name}. {self.name} is a {self.age} year old {self.gender} {self.CLASS_NAME}'
 
     def make_sound(self):
-        return 'Woof!'
+        return self.sound

@@ -1,6 +1,6 @@
 # zero test
-from project.mammal import Mammal
-from project.lizard import Lizard
+from music.mammal import Mammal
+from music.lizard import Lizard
 import unittest
 
 class Tests(unittest.TestCase):

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
-from project.animals.animal import Animal
-from project.food import Food, Meat
+from music.animals.animal import Animal
+from music.food import Food, Meat
 
 
 class Bird(Animal, ABC):

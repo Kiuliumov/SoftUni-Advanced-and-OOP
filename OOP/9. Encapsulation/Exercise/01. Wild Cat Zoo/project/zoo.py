@@ -1,4 +1,4 @@
-from project import animal, caretaker, cheetah, keeper, lion, tiger, vet, worker
+from music import animal, caretaker, cheetah, keeper, lion, tiger, vet, worker
 
 
 class Zoo:

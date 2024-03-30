@@ -1,4 +1,4 @@
-from project.knight import Knight
+from music.knight import Knight
 
 
 

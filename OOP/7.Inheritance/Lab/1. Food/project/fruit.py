@@ -1,4 +1,4 @@
-from project.food import Food
+from music.food import Food
 
 
 class Fruit(Food):

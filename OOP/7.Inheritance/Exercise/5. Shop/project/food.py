@@ -1,4 +1,4 @@
-from project.product import Product
+from music.product import Product
 
 class Food(Product):
     def __init__(self, name: str):

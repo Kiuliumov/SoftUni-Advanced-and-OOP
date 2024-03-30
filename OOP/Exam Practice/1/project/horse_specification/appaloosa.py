@@ -1,4 +1,4 @@
-from project.horse_specification.horse import Horse
+from music.horse_specification.horse import Horse
 
 class Appaloosa(Horse):
 

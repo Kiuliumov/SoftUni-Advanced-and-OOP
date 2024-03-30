@@ -1,4 +1,4 @@
-from project.food.food import Food
+from music.food.food import Food
 
 
 class MainDish(Food):

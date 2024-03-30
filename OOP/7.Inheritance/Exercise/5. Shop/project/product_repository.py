@@ -1,5 +1,5 @@
 from typing import List
-from project.product import Product
+from music.product import Product
 
 class ProductRepository:
     def __init__(self):

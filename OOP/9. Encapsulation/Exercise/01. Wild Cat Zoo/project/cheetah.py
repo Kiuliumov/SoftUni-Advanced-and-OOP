@@ -1,4 +1,4 @@
-from project.animal import Animal
+from music.animal import Animal
 
 
 class Cheetah(Animal):
