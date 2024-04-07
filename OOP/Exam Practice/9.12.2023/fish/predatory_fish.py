@@ -1,4 +1,4 @@
-from project.fish.base_fish import BaseFish
+from exam_practice.fish.base_fish import BaseFish
 
 
 class PredatoryFish(BaseFish):

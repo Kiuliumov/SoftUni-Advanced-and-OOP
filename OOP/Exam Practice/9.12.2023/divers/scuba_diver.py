@@ -1,4 +1,4 @@
-from project.divers.base_diver import BaseDiver
+from exam_practice.divers.base_diver import BaseDiver
 
 
 class ScubaDiver(BaseDiver):

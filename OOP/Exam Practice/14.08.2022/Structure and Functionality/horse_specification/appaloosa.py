@@ -1,4 +1,4 @@
-from project.horse_specification.horse import Horse
+from exam_practice.horse_specification.horse import Horse
 
 
 

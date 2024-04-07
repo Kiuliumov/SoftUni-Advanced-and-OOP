@@ -1,4 +1,4 @@
-from project.toy_store import ToyStore
+from exam_practice.toy_store import ToyStore
 import unittest
 
 class TestToyStore(unittest.TestCase):

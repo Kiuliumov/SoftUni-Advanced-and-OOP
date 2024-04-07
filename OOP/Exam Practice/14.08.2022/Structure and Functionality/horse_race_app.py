@@ -1,8 +1,8 @@
-from project.jockey import Jockey
-from project.horse_race import HorseRace
-from project.horse_specification.horse import Horse
-from project.horse_specification.appaloosa import Appaloosa
-from project.horse_specification.thoroughbred import Thoroughbred
+from exam_practice.jockey import Jockey
+from exam_practice.horse_race import HorseRace
+from exam_practice.horse_specification.horse import Horse
+from exam_practice.horse_specification.appaloosa import Appaloosa
+from exam_practice.horse_specification.thoroughbred import Thoroughbred
 from typing import List
 
 

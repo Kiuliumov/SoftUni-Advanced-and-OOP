@@ -1,5 +1,5 @@
 import unittest
-from project.bookstore import Bookstore
+from exam_practice.bookstore import Bookstore
 
 class TestBookstore(unittest.TestCase):
 

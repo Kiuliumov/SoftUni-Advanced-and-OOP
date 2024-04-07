@@ -1,5 +1,5 @@
-from project.climbers.base_climber import BaseClimber
-from project.peaks.base_peak import BasePeak
+from exam_practice.climbers.base_climber import BaseClimber
+from exam_practice.peaks.base_peak import BasePeak
 
 
 class SummitClimber(BaseClimber):

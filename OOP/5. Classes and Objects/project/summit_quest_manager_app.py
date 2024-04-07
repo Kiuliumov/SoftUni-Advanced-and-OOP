@@ -1,7 +1,7 @@
-from project.climbers.arctic_climber import ArcticClimber
-from project.climbers.summit_climber import SummitClimber
-from project.peaks.arctic_peak import ArcticPeak
-from project.peaks.summit_peak import SummitPeak
+from exam_practice.climbers.arctic_climber import ArcticClimber
+from exam_practice.climbers.summit_climber import SummitClimber
+from exam_practice.peaks.arctic_peak import ArcticPeak
+from exam_practice.peaks.summit_peak import SummitPeak
 
 
 class SummitQuestManagerApp:

@@ -1,4 +1,4 @@
-from project.delicacies.delicacy import Delicacy
+from exam_practice.delicacies.delicacy import Delicacy
 
 
 class Gingerbread(Delicacy):

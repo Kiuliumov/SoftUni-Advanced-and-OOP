@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from project.peaks.base_peak import BasePeak
+from exam_practice.peaks.base_peak import BasePeak
 
 
 class BaseClimber(ABC):

@@ -1,7 +1,7 @@
-from project.divers.free_diver import FreeDiver
-from project.divers.scuba_diver import ScubaDiver
-from project.fish.predatory_fish import PredatoryFish
-from project.fish.deep_sea_fish import DeepSeaFish
+from exam_practice.divers.free_diver import FreeDiver
+from exam_practice.divers.scuba_diver import ScubaDiver
+from exam_practice.fish.predatory_fish import PredatoryFish
+from exam_practice.fish.deep_sea_fish import DeepSeaFish
 
 
 class NauticalCatchChallengeApp:
