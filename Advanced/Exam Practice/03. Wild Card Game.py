@@ -32,3 +32,4 @@ def draw_cards(*args, **kwargs):
 
     return result.strip()
 
+print(draw_cards(("cyber dragon", "monster"), freeze="spell",))
