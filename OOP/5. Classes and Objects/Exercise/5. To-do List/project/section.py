@@ -25,4 +25,4 @@ class Section:
         string = 'Section {}:\n'.format(self.name)
         for task in self.tasks:
             string += task.details() + '\n'
-        return string.strip()
+        return string.rstrip()
