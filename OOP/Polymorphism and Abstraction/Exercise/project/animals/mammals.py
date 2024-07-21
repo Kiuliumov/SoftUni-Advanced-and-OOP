@@ -1,7 +1,6 @@
 from abc import ABC
-
-from music.animals.animal import Animal
-from music.food import Food, Fruit, Meat, Vegetable
+from project.animals.animal import Animal
+from project.food import Food, Fruit, Meat, Vegetable
 
 
 class Mammal(Animal, ABC):
