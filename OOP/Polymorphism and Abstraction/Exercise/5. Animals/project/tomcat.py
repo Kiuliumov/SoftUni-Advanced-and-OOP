@@ -1,4 +1,4 @@
-from music.cat import Cat
+from project.cat import Cat
 
 
 class Tomcat(Cat):
