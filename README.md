@@ -1,8 +1,9 @@
+![SoftUni]([https://yourimageurl.com/python-courses-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPFFqCRmlA9SmIQQd1_wUfKfApvbzcbSubQ&usqp=CAU))  <!-- Replace with your image URL -->
 # Python Advanced and Python OOP Courses
 
 Welcome to the repositories for the Python Advanced and Python OOP courses!
 
-## Python Advanced - September 2024
+## Python Advanced
 
 The "Python Advanced" course is designed to deepen your understanding of Python through complex programming concepts and practical applications. By the end of this course, you will be able to:
 
@@ -37,7 +38,7 @@ The "Python Advanced" course is designed to deepen your understanding of Python 
 
 ---
 
-## Python OOP - October 2024
+## Python OOP
 
 The "Python OOP" course will guide you through the principles of object-oriented programming, including class hierarchies, design patterns, and best practices. By the end of this course, you will have mastered:
 
