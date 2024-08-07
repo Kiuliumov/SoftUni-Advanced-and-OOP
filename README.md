@@ -1,4 +1,4 @@
-![SoftUni]([https://yourimageurl.com/python-courses-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPFFqCRmlA9SmIQQd1_wUfKfApvbzcbSubQ&usqp=CAU))  <!-- Replace with your image URL -->
+![SoftUni](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPFFqCRmlA9SmIQQd1_wUfKfApvbzcbSubQ&usqp=CAU)
 # Python Advanced and Python OOP Courses
 
 Welcome to the repositories for the Python Advanced and Python OOP courses!
