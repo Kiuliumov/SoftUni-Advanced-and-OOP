@@ -37,6 +37,7 @@ The "Python Advanced" course is designed to deepen your understanding of Python 
 - Workshop
 ### Certificate
 [![Certificate](https://i.ibb.co/Wsr1ww2/image.png)](https://softuni.bg/certificates/details/217890/15502660)
+
 `Click on the image for full course details`
 ---
 
