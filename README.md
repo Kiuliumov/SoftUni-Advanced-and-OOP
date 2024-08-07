@@ -37,7 +37,7 @@ The "Python Advanced" course is designed to deepen your understanding of Python 
 - Workshop
 
 https://softuni.bg/certificates/details/217890/15502660
-![Certificate](https://ibb.co/stTrGGV)
+![Certificate]([https://ibb.co/stTrGGV](https://i.ibb.co/Wsr1ww2/image.png))
 ---
 
 ## Python OOP
