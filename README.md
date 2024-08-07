@@ -84,6 +84,5 @@ Feel free to explore the repositories, follow the exercises, and make the most o
     git clone https://github.com/yourusername/python-advanced-oop-courses.git
     ```
 
-For any questions or issues, please open an issue on GitHub or contact the course instructors.
+For any questions or issues, please open an issue on GitHub or contact me directly.
 
-Happy coding!
