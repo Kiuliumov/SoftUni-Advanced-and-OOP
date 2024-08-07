@@ -5,7 +5,7 @@ Welcome to the repositories for the Python Advanced and Python OOP courses!
 
 ## Python Advanced
 
-The "Python Advanced" course is designed to deepen your understanding of Python through complex programming concepts and practical applications. By the end of this course, you will be able to:
+The "Python Advanced" course is designed to deepen your understanding of Python through complex programming concepts and practical applications. By the end of this course, you can already:
 
 - Work with multidimensional and associative data structures.
 - Create and utilize linear data structures.
@@ -43,7 +43,7 @@ The "Python Advanced" course is designed to deepen your understanding of Python 
 
 ## Python OOP
 
-The "Python OOP" course will guide you through the principles of object-oriented programming, including class hierarchies, design patterns, and best practices. By the end of this course, you will have mastered:
+The "Python OOP" course will guide you through the principles of object-oriented programming, including class hierarchies, design patterns, and best practices. By the end of this course, you can already:
 
 - The principles of OOP such as abstraction, encapsulation, inheritance, and polymorphism.
 - The use of design patterns and SOLID principles.
