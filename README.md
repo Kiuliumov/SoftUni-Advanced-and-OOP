@@ -83,11 +83,6 @@ Feel free to explore the repositories, follow the exercises, and make the most o
     ```bash
     git clone https://github.com/yourusername/python-advanced-oop-courses.git
     ```
-2. Navigate to the relevant course directory:
-    ```bash
-    cd python-advanced
-    ```
-3. Follow the instructions in the individual exercise files.
 
 For any questions or issues, please open an issue on GitHub or contact the course instructors.
 
