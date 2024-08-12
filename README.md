@@ -82,6 +82,3 @@ The "Python OOP" course will guide you through the principles of object-oriented
 
 `Click on the image for full course details`
 ---
-
-
-Feel free
