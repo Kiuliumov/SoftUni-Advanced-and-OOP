@@ -79,6 +79,7 @@ The "Python OOP" course will guide you through the principles of object-oriented
 
 ### Certificate
 [![Certificate](https://i.ibb.co/pPd7WCQ/image.png)](https://softuni.bg/certificates/details/222890/ea1d597d)
+
 `Click on the image for full course details`
 ---
 
