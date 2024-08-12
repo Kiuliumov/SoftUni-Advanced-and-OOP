@@ -85,13 +85,3 @@ The "Python OOP" course will guide you through the principles of object-oriented
 
 
 Feel free to explore the repositories, follow the exercises, and make the most of your learning experience!
-
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/python-advanced-oop-courses.git
-    ```
-
-For any questions or issues, please open an issue on GitHub or contact me directly.
-
