@@ -80,6 +80,9 @@ The "Python OOP" course will guide you through the principles of object-oriented
 ---
 
 ### Certificate
+[![Certificate](https://i.ibb.co/pPd7WCQ/image.png)()
+
+`Click on the image for full course details`
 
 Feel free to explore the repositories, follow the exercises, and make the most of your learning experience!
 
