@@ -84,4 +84,4 @@ The "Python OOP" course will guide you through the principles of object-oriented
 ---
 
 
-Feel free to explore the repositories, follow the exercises, and make the most of your learning experience!
+Feel free
